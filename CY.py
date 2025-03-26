@@ -8,7 +8,7 @@ def vcy():
         else:
             v = int(input('Объём: '))
         y_n2 = input('Радиус дробный? (y/n): ')
-        if y_n == 'y':
+        if y_n2 == 'y':
             r = float(input('Радиус: '))
         else:
             r = int(input('Радиус: '))
